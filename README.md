@@ -62,4 +62,4 @@ The following discussion threads were useful:
 - https://www.kaggle.com/c/recognizing-faces-in-the-wild/discussion/103670
 - https://www.kaggle.com/c/recognizing-faces-in-the-wild/discussion/104288
 
-[The Reference Code](https://www.kaggle.com/mattemilio/smile-best-who-smile-last)
+
