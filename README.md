@@ -13,9 +13,9 @@ The purpose of this project is was to determine whether two people are blood-rel
 Top 4% solution (18/458) on the public leaderboard
 
 ### Contributing Members
-** [Pereddy Vijai Krishna Reddy](https://github.com/pvijaikr)**
-** [Atluri Sai Mona](https://github.com/alturisaimona)**
-** [Pinnepu Jaswanth](https://github.com/jaswanth001)**
+- [Pereddy Vijai Krishna Reddy](https://github.com/pvijaikr)
+- [Atluri Sai Mona](https://github.com/alturisaimona)
+- [Pinnepu Jaswanth](https://github.com/jaswanth001)
 
 ## Project Description
 The proposed solution is a classifier using a VGGFace baseline CNN model in Keras with modified architecture to determine if two people are blood-related based solely on images of their faces. 
