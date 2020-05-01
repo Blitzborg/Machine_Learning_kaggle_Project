@@ -9,7 +9,7 @@ The purpose of this project is was to determine whether two people are blood-rel
 ### Competition Organizers
 * [Northeastern SMILE Lab](https://web.northeastern.edu/smilelab/)
 
-## Score 
+## Submission Score 
 Top 4% solution (18/458) on the public leaderboard
 
 ### Contributing Members
