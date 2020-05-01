@@ -43,6 +43,11 @@ keras_vggface
 tensorflow
 zipfile
 tqdm
+h5py
+glob
+
 
 ```
 
+# Usage : 
+Install the above mentioned prequisites in an Integrated development environment that supports '.ipynb' files. Load the Model.ipynb file. Load the datasets from [here](https://www.kaggle.com/c/recognizing-faces-in-the-wild/data). Modify the directory path if required.
