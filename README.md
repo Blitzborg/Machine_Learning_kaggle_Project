@@ -34,7 +34,6 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-
 numpy
 os
 cv2
@@ -45,8 +44,6 @@ zipfile
 tqdm
 h5py
 glob
-
-
 ```
 
 # Usage : 
